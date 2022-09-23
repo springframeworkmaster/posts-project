@@ -1,0 +1,25 @@
+.post {
+    text-align: flex;
+    padding: 20px;
+    max-width: 600px;
+    text-align: center;
+    border: #282c34;
+    border-style: solid;
+    margin: auto;
+    background-color: #ddf0fc;
+}
+
+.button {
+
+
+    color: rgb(181, 47, 47);
+    padding: 0px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+

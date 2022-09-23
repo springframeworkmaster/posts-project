@@ -1,0 +1,9 @@
+.comment {
+    text-align: left;
+    max-width: 600px;
+    text-align: left;
+    border: #ffffff;
+    border-style: outset;
+    background-color: #ddf0fc;
+    border-radius: 7px;
+}
